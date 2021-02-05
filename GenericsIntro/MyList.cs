@@ -4,7 +4,7 @@ using System.Text;
 
 namespace GenericsIntro
 {
-    class MyList<T> //T verdiğim tipe karşılık gelir.string int bool vs
+    class MyList<T> //T verdiğim tipe karşılık gelir.string int bool vs, Gener,c class
     {
         T[] items; //dizi
         // Main içerisinde mylist'i(class) newledğimizde aşağıdaki constructor çalışır.

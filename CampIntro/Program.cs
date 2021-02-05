@@ -8,6 +8,7 @@ namespace CampIntro
         {
             // do not repeat yourself - Kendini tekrarlama
 
+
             // değişkenler veri tutar, veri değişkenler ile yönetilir.
             // type safety - tip güvenliği
             // verileri çift tırnak ile yaz.
