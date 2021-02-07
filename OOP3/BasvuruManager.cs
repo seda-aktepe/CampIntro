@@ -33,6 +33,7 @@ namespace OOP3
         public void KrediOnBilgilendirmesiYap(List<ICrediManager> credits)
         {
             //listede li kredileri dolaş ve hangisi seçiliyse onu hesapla
+
             foreach (var credi in credits)
             {
                 credi.Calculate();
